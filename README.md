@@ -66,16 +66,6 @@
 
 ---
 
-## 🎯 Current Goals for 2025
-
-- 🚀 Master advanced React patterns and Next.js
-- 🤖 Dive deeper into Machine Learning and AI
-- 📱 Build a mobile app with React Native
-- 🌟 Contribute to 5+ open source projects
-- 📝 Write technical blog posts
-
----
-
 <div align="center">
   <i>⭐️ From <a href="https://github.com/LuongDucQuy">LuongDucQuy</a> with ❤️</i>
 </div>
