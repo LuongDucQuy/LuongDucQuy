@@ -7,6 +7,6 @@
 
   <br/>
 
-  <h1>✦ D U C　Q U Y ✦</h1>
+  <h1>✦ L U O N G  D U C　Q U Y ✦</h1>
 
 </div>
