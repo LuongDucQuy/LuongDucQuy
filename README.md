@@ -1,186 +1,152 @@
-
-<!-- COSMIC DEVELOPER PROFILE -->
-
-<!-- ==================== HEADER ==================== -->
+<!-- ✦ COSMIC PROFILE · đặt file này vào repo LuongDucQuy/LuongDucQuy (README.md) ✦ -->
+<!-- ✦ và đặt thư mục assets/ (banner.svg, divider.svg) cùng cấp với README.md ✦ -->
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B19,30:312E81,65:7C3AED,100:22D3EE&height=230&section=header&text=DUC%20QUY&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=Exploring%20the%20universe%20of%20code&descSize=17&descAlignY=58&animation=fadeIn"/>
+<img width="100%" src="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/main/assets/banner.svg" alt="Duc Quy — Wanderer of the Digital Cosmos"/>
 
-  <a href="https://github.com/LuongDucQuy">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Welcome+to+my+digital+universe;Software+Developer;Building+ideas+into+reality;Never+stop+learning+and+exploring" alt="Typing SVG"/>
-  </a>
+<a href="https://github.com/LuongDucQuy">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=3200&pause=900&color=C4B5FD&center=true&vCenter=true&width=700&height=45&lines=Gazing+into+the+void%2C+shipping+code;Turning+stardust+into+software;Every+bug+is+a+black+hole+waiting+to+be+solved;The+universe+compiles+without+errors..." alt="Typing SVG"/>
+</a>
 
-  <br/>
+<br/>
 
-  <img src="https://img.shields.io/badge/SYSTEM-ONLINE-67E8F9?style=flat-square&labelColor=101329"/>
+<img src="https://img.shields.io/badge/SIGNAL-STABLE-67E8F9?style=flat-square&labelColor=0B0D24"/>
+<img src="https://img.shields.io/badge/ORBIT-EARTH%20·%20VIETNAM-A78BFA?style=flat-square&labelColor=0B0D24"/>
+<img src="https://komarev.com/ghpvc/?username=LuongDucQuy&label=TRAVELERS%20OBSERVED&color=7C3AED&style=flat-square&labelColor=0B0D24"/>
 
-  <img src="https://komarev.com/ghpvc/?username=LuongDucQuy&label=SPACE%20VISITORS&color=7C3AED&style=flat-square"/>
-
-</div>
-
-<!-- ==================== ABOUT ME ==================== -->
-
-## 🌌 About My Universe
-
-<div align="center">
-
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B19,50:7C3AED,100:080B19&height=2"/>
+<img width="100%" src="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/main/assets/divider.svg"/>
 
 </div>
 
-```yaml
-identity:
-  name: Duc Quy
-  role: Software Developer
-  planet: Earth
-  location: Vietnam
+## 🔭 The Observer
 
-mission:
-  - Build meaningful software
-  - Explore new technologies
-  - Transform ideas into reality
-  - Keep learning and improving
-
-status:
-  system: Online
-  curiosity: Unlimited
+```text
+ ╔══════════════════════════════════════════════════════╗
+ ║  ░ DECRYPTING TRANSMISSION ░░░░░░░░░░░░░░ 100% ✔    ║
+ ╠══════════════════════════════════════════════════════╣
+ ║  ENTITY     ▸ Duc Quy                                ║
+ ║  CLASS      ▸ Software Developer                     ║
+ ║  ORIGIN     ▸ Earth · Vietnam                        ║
+ ║  POWER      ▸ Curiosity  ∞                           ║
+ ║  QUEST      ▸ Turn ideas into living software        ║
+ ║  STATUS     ▸ Exploring, building, never stopping    ║
+ ╚══════════════════════════════════════════════════════╝
 ```
 
-> ✨ Every line of code is a small step into an infinite universe.
+> *“In the silence between two stars, a new idea is born.”* ✦
 
-<!-- ==================== SOCIAL LINKS ==================== -->
+<details>
+<summary><b>🜂 Unseal the hidden scroll</b></summary>
 
-## 📡 Communication Channels
+<br/>
+
+```js
+const cosmos = {
+  prophecy: "One more commit, one more star ignited",
+  rituals:  ["learn", "build", "break", "fix", "repeat"],
+  fuel:     ["coffee", "late nights", "stubborn curiosity"],
+  isDone()  { return false; }   // the journey has no end
+};
+```
+
+</details>
+
+<div align="center">
+<img width="100%" src="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/main/assets/divider.svg"/>
+</div>
+
+## 🪐 Constellations of Power
 
 <div align="center">
 
-  <a href="https://www.facebook.com/ducquy.7Ro/">
-    <img src="https://img.shields.io/badge/Facebook-101329?style=for-the-badge&logo=facebook&logoColor=818CF8"/>
-  </a>
+<sub>✦ <b>Frontend Nebula</b> ✦</sub><br/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular&theme=dark"/>
 
-  <a href="https://www.instagram.com/duc.quyyy7/">
-    <img src="https://img.shields.io/badge/Instagram-101329?style=for-the-badge&logo=instagram&logoColor=F472B6"/>
-  </a>
+<br/><br/>
 
-  <a href="https://github.com/LuongDucQuy">
-    <img src="https://img.shields.io/badge/GitHub-101329?style=for-the-badge&logo=github&logoColor=E2E8F0"/>
-  </a>
+<sub>✦ <b>Backend Core</b> ✦</sub><br/>
+<img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs&theme=dark"/>
+
+<br/><br/>
+
+<sub>✦ <b>Data & Deep Space Infrastructure</b> ✦</sub><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,linux,docker,nginx&theme=dark"/>
+
+<br/><br/>
+
+<sub>✦ <b>Starship Toolkit</b> ✦</sub><br/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark"/>
 
 </div>
-
-<!-- ==================== TECHNOLOGY STACK ==================== -->
-
-## 🪐 Technology Galaxy
 
 <div align="center">
-
-  <h4>✦ Frontend Orbit ✦</h4>
-
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular&theme=dark"/>
-
-  <h4>✦ Backend Orbit ✦</h4>
-
-  <img src="https://skillicons.dev/icons?i=java,spring,nodejs,nestjs&theme=dark"/>
-
-  <h4>✦ Database & Infrastructure ✦</h4>
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres,linux,docker,nginx&theme=dark"/>
-
-  <h4>✦ Developer Toolkit ✦</h4>
-
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,postman&theme=dark"/>
-
+<img width="100%" src="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/main/assets/divider.svg"/>
 </div>
-
-<!-- ==================== GITHUB STATISTICS ==================== -->
 
 ## 🛰️ Mission Control
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:080B19,50:7C3AED,100:080B19&height=2"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=LuongDucQuy&show_icons=true&hide_border=true&bg_color=0B0D24&title_color=C4B5FD&icon_color=67E8F9&text_color=E2E8F0&ring_color=A78BFA&rank_icon=github"/>
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongDucQuy&layout=compact&langs_count=8&hide_border=true&bg_color=0B0D24&title_color=C4B5FD&text_color=E2E8F0"/>
 
-  <br/>
+<br/><br/>
 
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=LuongDucQuy&show_icons=true&hide_border=true&bg_color=101329&title_color=A78BFA&icon_color=67E8F9&text_color=E2E8F0&rank_icon=github"/>
-
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuongDucQuy&layout=compact&langs_count=8&hide_border=true&bg_color=101329&title_color=A78BFA&text_color=E2E8F0"/>
-
-  <br/><br/>
-
-  <img width="75%" src="https://streak-stats.demolab.com/?user=LuongDucQuy&hide_border=true&background=101329&stroke=312E81&ring=A78BFA&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=A78BFA&sideLabels=A78BFA&dates=94A3B8"/>
+<img width="80%" src="https://streak-stats.demolab.com/?user=LuongDucQuy&hide_border=true&background=0B0D24&stroke=312E81&ring=A78BFA&fire=67E8F9&currStreakNum=E2E8F0&sideNums=E2E8F0&currStreakLabel=C4B5FD&sideLabels=C4B5FD&dates=94A3B8"/>
 
 </div>
 
-<!-- ==================== ACHIEVEMENTS ==================== -->
-
-## 🌟 Galactic Achievements
+## 🌠 Relics & Trophies
 
 <div align="center">
 
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=LuongDucQuy&theme=discord&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
+<img width="100%" src="https://github-profile-trophy.vercel.app/?username=LuongDucQuy&theme=onedark&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4"/>
 
 </div>
 
-<!-- ==================== ACTIVITY GRAPH ==================== -->
-
-## 🌠 Contribution Constellation
+## 🌌 Constellation of Contributions
 
 <div align="center">
 
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuongDucQuy&custom_title=Cosmic%20Coding%20Activity&bg_color=101329&color=A78BFA&line=818CF8&point=67E8F9&area=true&area_color=7C3AED&hide_border=true&title_color=A78BFA"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=LuongDucQuy&custom_title=Pulse%20of%20the%20Cosmos&bg_color=0B0D24&color=C4B5FD&line=A78BFA&point=67E8F9&area=true&area_color=7C3AED&hide_border=true&title_color=C4B5FD"/>
 
 </div>
 
-<!-- ==================== CONTRIBUTION SNAKE ==================== -->
-
-
-
-## 🐍 Cosmic Contribution Trail
+## 🐍 The Serpent of the Stars
 
 <div align="center">
 
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/output/github-contribution-grid-snake-dark.svg"/>
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/output/github-contribution-grid-snake.svg"/>
-    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/output/github-contribution-grid-snake.svg"/>
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/output/github-contribution-grid-snake.svg"/>
+  <img alt="Contribution Snake" src="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/output/github-contribution-grid-snake.svg"/>
+</picture>
 
 </div>
 
-
-
-<!-- ==================== DEVELOPER QUOTE ==================== -->
-
-## 🔮 Cosmic Wisdom
-
 <div align="center">
-
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"/>
-
-  <br/><br/>
-
-  <i>The universe is infinite. So is the potential of curiosity.</i>
-
+<img width="100%" src="https://raw.githubusercontent.com/LuongDucQuy/LuongDucQuy/main/assets/divider.svg"/>
 </div>
 
-<!-- ==================== FOOTER ==================== -->
+## 📡 Open a Channel
 
 <div align="center">
 
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080B19,35:312E81,70:7C3AED,100:22D3EE&height=120&section=footer"/>
+<a href="https://www.facebook.com/ducquy.7Ro/"><img src="https://img.shields.io/badge/Facebook-0B0D24?style=for-the-badge&logo=facebook&logoColor=818CF8"/></a>
+<a href="https://www.instagram.com/duc.quyyy7/"><img src="https://img.shields.io/badge/Instagram-0B0D24?style=for-the-badge&logo=instagram&logoColor=F472B6"/></a>
+<a href="https://github.com/LuongDucQuy"><img src="https://img.shields.io/badge/GitHub-0B0D24?style=for-the-badge&logo=github&logoColor=E2E8F0"/></a>
 
-  <sub>✦ Designed with curiosity. Built with passion. ✦</sub>
+<br/><br/>
 
-  <br/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"/>
 
-  <sub>🚀 Keep exploring. Keep building.</sub>
+<br/>
 
-  <br/><br/>
+<i>The universe is infinite. So is the potential of curiosity.</i>
 
-  <a href="https://github.com/LuongDucQuy">
-    <img src="https://img.shields.io/badge/MADE%20BY-DUC%20QUY-7C3AED?style=flat-square&labelColor=101329"/>
-  </a>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0D24,40:312E81,75:7C3AED,100:22D3EE&height=120&section=footer"/>
+
+<sub>✦ Written in starlight · Compiled with curiosity ✦</sub>
 
 </div>
