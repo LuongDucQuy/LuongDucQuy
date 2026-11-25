@@ -5,8 +5,6 @@
 
   <img width="100%" src="https://svs.gsfc.nasa.gov/vis/a010000/a013300/a013326/BH_AccretionDisk_Sim_Banner_Stationary.gif" alt="Event Horizon"/>
 
-  <sub>Black Hole Visualization — NASA / GSFC / Jeremy Schnittman</sub>
-
   <br/>
 
   <h1>✦ D U C　Q U Y ✦</h1>
@@ -23,48 +21,6 @@
 
 </div>
 
-<br/>
-
-<!-- ═══════════════ SPACE EXPLORER ═══════════════ -->
-
-<h2 align="center">☄ 01 // THE SPACE EXPLORER</h2>
-
-<table>
-<tr>
-<td width="55%">
-
-<h3>👨‍🚀 Astronaut Dossier</h3>
-
-<pre>
-╔════════════════════════════╗
-  IDENTITY : DUC QUY
-  ROLE     : DEVELOPER
-  GALAXY   : MILKY WAY
-  PLANET   : EARTH
-  MISSION  : NEVER STOP
-             EXPLORING
-  STATUS   : ONLINE
-╚════════════════════════════╝
-</pre>
-
-- 🌌 Exploring the universe of software.
-- 🛸 Building scalable applications.
-- 🔮 Discovering AI and IoT.
-- 🪐 Turning imagination into reality.
-- ⚡ Learning something new every day.
-
-</td>
-
-<td width="45%" align="center">
-
-<img width="100%" src="https://assets.science.nasa.gov/dynamicimage/assets/science/missions/webb/science/2022/10/STScI-01GFRYYRTCTMX197BY86MBFCR9.png?fit=clip&h=1817&w=1987"/>
-
-<sub>Pillars of Creation — NASA, ESA, CSA, STScI</sub>
-
-</td>
-</tr>
-</table>
-
 <div align="center">
 
   <i>“Somewhere, beyond the stars, infinite possibilities await.”</i>
@@ -72,45 +28,6 @@
   <p>✦ · · · · · ☾ · · · · · ✦</p>
 
 </div>
-
-<!-- ═══════════════ TECHNOLOGY GALAXY ═══════════════ -->
-
-<h2 align="center">🪐 02 // TECHNOLOGY SOLAR SYSTEM</h2>
-
-<div align="center">
-
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:080611,50:7C3AED,100:080611&height=3" width="100%"/>
-
-  <h3>☀️ THE CORE — Programming Languages</h3>
-
-  <img src="https://skillicons.dev/icons?i=java,js,ts,html,css&theme=dark"/>
-
-  <h3>🌍 INNER PLANETS — Frontend</h3>
-
-  <img src="https://skillicons.dev/icons?i=react,nextjs,angular,tailwind&theme=dark"/>
-
-  <h3>🪐 OUTER PLANETS — Backend</h3>
-
-  <img src="https://skillicons.dev/icons?i=spring,nestjs,nodejs&theme=dark"/>
-
-  <h3>🌑 DARK MATTER — Databases</h3>
-
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=dark"/>
-
-  <h3>🛸 SPACE STATION — Infrastructure & Tools</h3>
-
-  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,postman,grafana,prometheus&theme=dark&perline=8"/>
-
-  <br/>
-  <br/>
-
-  <p>✧ ────────── ☄ ────────── ✧</p>
-
-</div>
-
-<!-- ═══════════════ MISSION CONTROL ═══════════════ -->
-
-<h2 align="center">🔭 03 // MISSION CONTROL</h2>
 
 <div align="center">
 
@@ -134,22 +51,6 @@
 
 <br/>
 
-<!-- ═══════════════ COSMIC ACHIEVEMENTS ═══════════════ -->
-
-<h2 align="center">✦ 04 // GALACTIC ACHIEVEMENTS</h2>
-
-<div align="center">
-
-  <img width="100%" src="https://github-profile-trophy.vercel.app/?username=LuongDucQuy&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&margin-h=10&column=4&row=2"/>
-
-  <p>✦ · · · · · ☾ · · · · · ✦</p>
-
-</div>
-
-<!-- ═══════════════ STAR MAP ═══════════════ -->
-
-<h2 align="center">🌠 05 // GALACTIC STAR MAP</h2>
-
 <div align="center">
 
   <p><i>Every commit is a new star in my universe.</i></p>
@@ -162,8 +63,6 @@
 
 <!-- ═══════════════ WISDOM ═══════════════ -->
 
-<h2 align="center">🔮 06 // ECHOES FROM THE UNIVERSE</h2>
-
 <div align="center">
 
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=programming"/>
@@ -175,8 +74,6 @@
 </div>
 
 <!-- ═══════════════ TRANSMISSION ═══════════════ -->
-
-<h2 align="center">📡 07 // INTERSTELLAR TRANSMISSION</h2>
 
 <div align="center">
 
@@ -216,8 +113,6 @@
   <p>☾　　✧　　🪐　　✧　　☽</p>
 
   <p><i>Until the next orbit...</i></p>
-
-  <p><code>END OF TRANSMISSION // 200 OK</code></p>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:080611,50:241344,100:6D28D9&height=140&section=footer"/>
 
